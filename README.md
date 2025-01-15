@@ -14,6 +14,7 @@ This project applies Natural Language Processing (NLP) techniques to perform sen
 
 - **Text Data Collection**: Data collected from social media platforms with python
 - **Sentiment Classification**: Sentiment of social media posts is classified as Positive, Negative, or Neutral.
+- ![workflow](https://github.com/dikirust/Sentiment-Analysis-of-DKI-Jakarta-2024-Gubernatorial-Election-Using-NLP/blob/main/sentiment.png?raw=true)
   ![sentiment](https://github.com/dikirust/Sentiment-Analysis-of-DKI-Jakarta-2024-Gubernatorial-Election-Using-NLP/blob/main/sentiment.png?raw=true)
 - **Data Visualization**: Orange’s built-in visualization tools to show sentiment trends and other insights.
   ![DV](https://github.com/dikirust/Sentiment-Analysis-of-DKI-Jakarta-2024-Gubernatorial-Election-Using-NLP/blob/main/ss%20wordcloud%201.png?raw=true)
