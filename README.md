@@ -12,7 +12,7 @@ This project applies Natural Language Processing (NLP) techniques to perform sen
 
 ## Features
 
-- **Text Data Collection**: Data collected from social media platforms with python
+- **Text Data Collection**: Data collected from social media platforms with python and youtube API.
 - **Sentiment Classification**: Sentiment of social media posts is classified as Positive, Negative, or Neutral.
 - ![workflow](https://github.com/dikirust/Sentiment-Analysis-of-DKI-Jakarta-2024-Gubernatorial-Election-Using-NLP/blob/main/workflow%20orange%201.png?raw=true)
   ![sentiment](https://github.com/dikirust/Sentiment-Analysis-of-DKI-Jakarta-2024-Gubernatorial-Election-Using-NLP/blob/main/sentiment.png?raw=true)
